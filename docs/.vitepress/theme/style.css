@@ -1,0 +1,13 @@
+:root {
+  /* 品牌主色 - 红色 */
+  --vp-c-brand-1: #d32f2f;
+  --vp-c-brand-2: #e53935;
+  --vp-c-brand-3: #ef5350;
+}
+
+.dark {
+  /* 暗黑模式下的品牌色，稍微亮一点以便阅读 */
+  --vp-c-brand-1: #ef5350;
+  --vp-c-brand-2: #e53935;
+  --vp-c-brand-3: #d32f2f;
+}
