@@ -5,6 +5,7 @@ export default withMermaid(defineConfig({
   title: 'OpenClaw DeepWiki',
   description: 'OpenClaw 深度文档',
   lang: 'zh-CN',
+  base: '/openclaw-deepwiki-zh/',
   
   themeConfig: {
     nav: [
